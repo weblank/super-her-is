@@ -22,10 +22,10 @@ Turing sugeriu que as máquinas não deveriam tentar imitar a mente adulta e sim
 
 **Em 1952** foi processado por prática de “atos homossexuais” — na época a homossexualidade era considerada crime — Turing aceitou a pena legal de castração química — pena alternativa para a prisão — o que significa que deveria tomar drogas anafrodisíacas para reduzir o libido (a raça humana é nojenta). Infelizmente, 2 anos depois, Turing morreu com um diagnóstico oficial de suicídio, porém existem evidências que apontam para intoxicação acidental.
 
-Reconhecimentos
-2009 — O primeiro ministro britânico formalizou uma desculpa pública em nome do governo britânico.  
-2013 — A Rainha Elizabeth II concedeu a Alan Turing o perdão póstumo.  
-2017 — Foi aprovada a lei conhecida informalmente como “Alan Turing Law” que promove o perdão retroativo para homens advertidos ou condenados por uma “legislação histórica” que proibia os atos homossexuais;  
+Reconhecimentos  
+**2009** — O primeiro ministro britânico formalizou uma desculpa pública em nome do governo britânico;  
+**2013** — A Rainha Elizabeth II concedeu a Alan Turing o perdão póstumo;  
+**2017** — Foi aprovada a lei conhecida informalmente como “Alan Turing Law” que promove o perdão retroativo para homens advertidos ou condenados por uma “legislação histórica” que proibia os atos homossexuais;  
 
 
 ---
