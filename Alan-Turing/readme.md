@@ -33,6 +33,7 @@ Reconhecimentos
 ## Quer saber um pouco sobre os feitos de Alan Turing?
 
 Principais Trabalhos de Alan Turing:
+
 [Bomba_(cryptography)](https://en.wikipedia.org/wiki/Bomba_%28cryptography%29)
 [Electromechanics](https://en.wikipedia.org/wiki/Electromechanics)
 [ACE- Automatic_Computing_Engine](https://en.wikipedia.org/wiki/Automatic_Computing_Engine)
