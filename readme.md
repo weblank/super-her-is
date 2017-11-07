@@ -14,6 +14,56 @@ Como vai funcionar ? A cada 15 dias vou escrever sobre um super-herói acrescent
 - [Alan Turing](./Alan-Turing/readme.md)
 
 
+#### Quero escrever sobre quem ?
+
+- João Carlos Martins
+- Nelson Freire
+- Bach
+- Ludwig Van Beethoven
+- Wolfgang Amadeus Mozart
+- Frédéric Chopin
+- Piotr Ilitch Tchaikovsky
+- Sergei Prokofiev
+- Ignaz Friedman
+- Martha Argerich
+
+- René Descartes
+- Henri Poincaré
+- AL-Khwarizmi
+- Arquimedes
+- Isaac Newton
+- Carl Friedrich Gauss
+- Leonhard Euler
+- Fibonacci
+- Pitágoras
+- Blaise Pascal
+- Claudio Ptolomeu
+- James Clerk Maxwell
+- Albert Einstein
+- Charles Darwin
+- Galileu Galilei
+- Nicola Tesla
+- Alessandro Giuseppe Volta
+- André Marie Ampère
+- Evangelista Torricelli
+- Georg Simon Ohm
+- Heinrich Rudolf Hertz
+- Niels Bohr
+- James Prescott Joule
+- Joseph Thompson
+- Lorde Kelvin
+
+- Tales de Mileto
+- Platão
+- Sócrates
+- Epicuro
+- Maquiavel
+- Karl Marx
+- Aurélio Agostinho
+- Euclides
+- Friedrich Nietzsche
+
+*ao longo do tempo vou adicionando outros.*
 
 
 ## Contribuindo
