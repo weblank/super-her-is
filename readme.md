@@ -74,6 +74,4 @@ Conto com os comentários e sugestões de vocês nas issues para melhorar o dese
 
 
 
-## License
-
-MIT License. Copyright 2017 Weblank
+## [License](https://github.com/weblank/super-herois/blob/master/LICENSE)
