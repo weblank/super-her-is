@@ -4,7 +4,7 @@
 
 ### Sobre
 
-O objetivo deste repositório é escrever um pouco sobre os meus super-heróis: cientistas, filósofos, sociólogos, matemáticos, físicos, políticos, juristas, delegados (pq não ? rs) e várias outras áreas. Dentro de tantas outras o que importa é que se entregaram ao que acreditavam ser seu propósito e de alguma forma fizeram diferença na história.
+O objetivo deste repositório é escrever um pouco sobre os meus super-heróis: cientistas, filósofos, sociólogos, matemáticos, físicos, políticos, juristas e várias outras áreas. Dentro de tantas outras, o que importa é que todos, sem exceção, se entregaram ao que acreditavam ser seu propósito e de alguma forma fizeram diferença na história.
 
 Como vai funcionar ? A cada 15 dias vou escrever sobre um super-herói acrescentando na lista.
 
